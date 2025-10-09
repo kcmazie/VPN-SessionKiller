@@ -63,7 +63,7 @@ Clear-Host
 
 
 #--[ RUNTIME OPTION VARIATIONS ]-----------------------------------------------
-$Console = $true
+$Console = $false
 $Debug = $false #True
 #$SafeUpdate = $False
 If($Debug){
@@ -1045,4 +1045,5 @@ $Form.Add_Shown({$Form.Activate()})
 if($Stop -eq $true){$Form.Close();break;break}
 
 Write-Host ""
+
 StatusMsg "--- COMPLETED ---" "red" $ExtOption
