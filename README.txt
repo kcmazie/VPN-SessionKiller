@@ -51,5 +51,5 @@ A script to terminate Anyconnect VPN sessions on Cisco firewalls
                    : not limited to the following:
                    : 
     Last Update by : Kenneth C. Mazie                                           
-   Version History : v1.00 - 10-09-25 - Original 
+   Version History : v1.00 - 10-01-25 - Original 
     Change History : v1.10 - 00-00-00 - 
